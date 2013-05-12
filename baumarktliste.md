@@ -10,3 +10,4 @@ Dinge, die wir brauchen
 * scharniere fuer falltuer
 * gitter fuer falltuer 1x1 m
 * 2x aufputzsteckdose fuer keller
+* Spachtelmasse
