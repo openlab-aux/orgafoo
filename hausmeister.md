@@ -13,6 +13,7 @@ Der Hausmeister hat primär Kontrollfunktion und die Macht, Leute für einzelne 
 
   * Klopapier
   * Putzmittel
+  * Getränke!
 
 ## Regelmässig
 
