@@ -1,8 +1,7 @@
-Dinge, die wir brauchen
-=======================
+Dinge, die wir (aus dem Baumarkt) brauchen
+=========================================
 
 * laengere schrauben fuer eckboxen des 5.1-systems
-* multimeter (angebot bestehend von @richi235)
 * scharniere fuer server-/subwoofereckzeug
 * winkel fuer server-/subwoofereckzeug
 * brett/spanplatte 35x75cm
