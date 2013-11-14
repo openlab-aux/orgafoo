@@ -1,18 +1,19 @@
-# Getränke - Stand 2013-06-16
+# Getränke - Stand 2013-11-14
 
 ## Vorhanden
 
-  * 3 * Augustiner Hell
-  * 3 * Spezi Original
-  * 3 * Mineralwasser
-  * 3 * Limo Orange
-  * 1 * Flora Powe Mate
+  * 1 * Bier
+  * 1 * Spezi schlecht
+  * 1 * Mineralwasser
+  * 1 * Limo Orange
+  * 0 * Flora Powe Mate
+  * 2 * Clubmate
  
 ## Soll
-  * 5 * Bier, verschiedenes (auch 0,33l)
-  * 5 * Flora Power Mate
-  * 3 * Club Mate
-  * 5 * Spezi
-  * 3 * Wasser
-  * 3 * Limo, Orange
-  * 1 * Limo, Zitrone
+  * 3 * Bier, verschiedenes (auch 0,33l)
+  * 3 * Flora Power Mate
+  * 2 * Club Mate
+  * 3 * PAULANER Spezi
+  * 1 * Wasser
+  * 1 * Limo, Orange
+  * 2 * Chabeso
