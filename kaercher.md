@@ -17,7 +17,7 @@ Bitte in folgender Reihenfolge vorgehen:
  1.  **Beutel raus!**
  2.  Bürsteneinsatz gegen Gummilippeneinsatz tauschen
  3.  Nass saugen ...
- 4.  Beh"lter ausleeren und **reinigen**
+ 4.  Behälter ausleeren und **reinigen**
  5.  Lamellenfilter raus nehmen und unter fließendem Wasser ausspülen
  6.  Schläuche und Rohr auseinanderbauen und unter drehen mit Wasser durchlaufen
      lassen (geht z.B. am Waschmaschinen-Anschluss -> Klo). Schläuche draußen
