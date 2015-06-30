@@ -25,6 +25,3 @@
 - [ ] rumliegende Flyer und Zeugs ordnen/auslegen
 - [ ] Fenster putzen
 - [ ] Haupttisch -> alles nicht zuzuordnendes in die Kiste unterm Panaboard
-
-
-- mehrstufiges Verfahren
