@@ -18,7 +18,6 @@
 - [ ] WC-Türen und Klinken putzen
 - [ ] Mülleimer saubermachen (!= leeren)
 - [ ] Terrasse kehren (Besen rot), ggf. feucht
-- [ ] Aschenbecher leeren
 - [ ] Fehlbestände erfassen (-> Ticket aufmachen)
 - [ ] Teppiche und Sofa geraderücken
 - [ ] Bücher gerade ausrichten, Bücherecke aufräumen
