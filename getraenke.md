@@ -2,7 +2,6 @@
 
 ## Soll
 
-* Oettinger Mate
 * Club Mate
 * Flora Power Mate
 * Original/Paulaner Spezi
