@@ -2,57 +2,28 @@ Subject: Willkommen im OpenLab Augsburg e.V.
 From: 
 To: mitglied@example.com, Vorstand OpenLab <vorstand@openlab-augsburg.de>
 
-Hallo $vorname,
-
-Ich habe dich gerade als Mitglied aufgenommen. Vielen Dank!
-
-Mitglied seit: 2.11.2016
-Status: Ermäßigt in Absprache mit Vorstand (EUR 5 / Monat)
-Lastschrift monatlich am 10. des Monats, Mandatsreferenz NACHNAME
-
+Hallo VORNAME,
+ 
+Wir haben dich gerade als Mitglied aufgenommen. Vielen Dank!
+ 
+Mitglied seit: YYYY-MM-DD
+Status: Ermäßigt (10€/Monat) | Vollmitglied (30€/Monat)
+Lastschrift monatlich am 1. des Monats, Mandatsreferenz VORNAMENACHNAME
+ 
 Wir haben eine Mitglieder-Liste, auf der du zwingend mit einer gültigen
 Emailadresse eingetragen sein musst (primär zwecks Einladung zu
 Mitgliederversammlungen). Bei Änderungen bitte mitteilen!
 
 Der Vorstand sind momentan flypps, phjl und Profpatsch
 -- alle erreichbar via vorstand@openlab-augsburg.de.
-
+ 
 Als Mitglied kannst du einen "Tür-Token" bekommen, mit dem du rund um
-die Uhr ins Lab kommst. Den muss man getrennt beantragen. Ansonsten
-weißt du ja schon dass eigentlich täglich Leute da sind. Der aktuelle
-Türöffnungsstatus ist auf unserer Website. Der beste Kommunikationskanal
-zu Lab-Mitgliedern ist IRC, im Freenode-Netzwerk im Channel #augsburg.
-Dort kann man auch mit ".status" rausfinden, wie viele Clients gerade im
-WLAN eingeloggt sind.
-
-Vielen Dank nochmal für die Unterstützung und bis bald im OpenLab!
-Subject: Willkommen im OpenLab Augsburg e.V.
-Date: Wed, 2 Nov 2016 13:16:52 +0100
-From: Moritz <moritz@unkonstruktiv.de>
-To: mitglied@example.com, Vorstand OpenLab <vorstand@openlab-augsburg.de>
-
-Hallo $vorname,
-
-Ich habe dich gerade als Mitglied aufgenommen. Vielen Dank!
-
-Mitglied seit: 2.11.2016
-Status: Ermäßigt in Absprache mit Vorstand (EUR 5 / Monat)
-Lastschrift monatlich am 10. des Monats, Mandatsreferenz UWAP
-
-Wir haben eine Mitglieder-Liste, auf der du zwingend mit einer gültigen
-Emailadresse eingetragen sein musst (primär zwecks Einladung zu
-Mitgliederversammlungen). Bei Änderungen bitte mitteilen!
-
-Der Vorstand sind momentan Phil (the_phil0s0ph), Hannes (waaaaaargh) und
-ich (gamambel), Peter (auch in Kopie) kümmert sich um Finanzen und
-Mitgliederverwaltung -- alle erreichbar via vorstand@openlab-augsburg.de.
-
-Als Mitglied kannst du einen "Tür-Token" bekommen, mit dem du rund um
-die Uhr ins Lab kommst. Den muss man getrennt beantragen. Ansonsten
-weißt du ja schon dass eigentlich täglich Leute da sind. Der aktuelle
-Türöffnungsstatus ist auf unserer Website. Der beste Kommunikationskanal
-zu Lab-Mitgliedern ist IRC, im Freenode-Netzwerk im Channel #augsburg.
-Dort kann man auch mit ".status" rausfinden, wie viele Clients gerade im
-WLAN eingeloggt sind.
-
+die Uhr ins Lab kommst. Den muss man getrennt beantragen, momentan
+bei Profpatsch.
+Ansonsten weißt du ja schon dass eigentlich täglich Leute da sind.
+Der aktuelle Türöffnungsstatus ist auf unserer Website. Der beste
+Kommunikationskanal zu Lab-Mitgliedern ist IRC, im Freenode-Netzwerk
+im Channel #augsburg. Dort kann man auch mit ".status" rausfinden,
+wie viele Clients gerade im WLAN eingeloggt sind.
+ 
 Vielen Dank nochmal für die Unterstützung und bis bald im OpenLab!
