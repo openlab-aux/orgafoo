@@ -26,3 +26,4 @@ root@sphincterctl:~# nano /opt/rfid/rfidlist/list.txt
 060080A02XXX    NewUser
 ```
 
+Reboot, test, done 👍
