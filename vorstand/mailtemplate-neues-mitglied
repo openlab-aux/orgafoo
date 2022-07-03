@@ -1,32 +1,29 @@
 Subject: Willkommen im OpenLab Augsburg e.V.
-From: 
+From: vorstand@openlab-augsburg.de	
 To: mitglied@example.com
-Cc: Vorstand OpenLab <vorstand@openlab-augsburg.de>
+Cc: vorstand@openlab-augsburg.de
 
-Hallo VORNAME,
- 
-Wir haben dich gerade als Mitglied aufgenommen. Vielen Dank!
- 
-Mitglied seit: YYYY-MM-DD
-Mitgliedsbeitrag: 30€/Monat | 10€/Monat | 12*10€/Jahr | 12*30€/Jahr
-Lastschrift monatlich am 10. des Monats, Mandatsreferenz NACHNAMEVORNAME
-| Bitte einmal monatlich überweisen, wenn möglich zwischen dem
-1. und dem 10. Die Referenz ist "Mitglidsbeitrag NACHNAMEVORNAME".
- 
-Wir haben eine Mitglieder-Liste, auf der du zwingend mit einer gültigen
-Emailadresse eingetragen sein musst (primär zwecks Einladung zu
-Mitgliederversammlungen). Bei Änderungen bitte mitteilen!
+Hey $NAME,
 
-Der Vorstand sind momentan flypps, phjl und Profpatsch
--- alle erreichbar via vorstand@openlab-augsburg.de.
+Wir haben deinen Mitgliedsantrag erhalten und nehmen dich sehr gerne als Mitglied im OpenLab Augsburg e.V. auf!
+
+Deine Mitgliedschaft beginnt zum $D.$M.$YYY und dein Mitgliedsbeitrag beträgt 35€ pro Monat.
+Wir haben dich in unser Mitgliederverzeichnis aufgenommen, deine Mitgliedsnummer ist: $MITGLIEDSNUMMER
+
+$ABSATZ OPTION LASTSCHRIFT
+Du hast dich für das SEPA Lastschriftverfahren entschieden. Wir buchen deinen Mitgliedsbeitrag immer Anfang des Monats ein. Die Mandatsreferenz lautet $MANDATSREFERENZ(=NachnameVornameMitgliedsnummer), die Gläubiger-ID des OpenLab ist DE11ZZZ00001692130.
+
+$ABSATZ OPTION ÜBERWEISUNG DAUERAUFTRAG
+Du hast dich für die Einrichtung eines Dauerauftrags zum Zahlen deiner Mitgliedsbeiträge entschieden. Richte den Dauerauftrag bitte an den OpenLab Augsburg e.V., IBAN: DE 5043 0609 6782 0579 3100 bei der GLS Bank, BIC: GENO DE M1 GLS. Verwende als Verwendungszweck bitte deine Mitgliedsnummer.
+
+Die verschiedenen Interessengruppen im OpenLab kommunizieren meist über unseren Mattermost-Chatserver. In verschiedenen Kanälen werden Themen behandelt oder sich einfach nur ausgetauscht. Informationen zum Chatserver findest du hier: $LINKWIKICHAT
+
+$ABSATZ-ZUGANG-AIRLOCK-QUEST-KOMMT-NOCH-JETZT-ERSTMAL-WEGLASSEN
+
+Als Mitglied bist du auch herzlich eingeladen, beim Plenum beizutragen. Das Plenum findet jeden ersten Donnerstag im Monat statt. Hier reden wir über das Tagesgeschehen im Verein und alles Organisatorische, was aufkommt. Infos zum Plenum findest du hier: $LINKWIKIPLENUM
+
+Der Vorstand kümmert sich um die Verwaltung des Vereins und der Finanzen. Aktuell besteht der Vorstand aus Robin Kara, Fabian Siegel und Gregor Walter. Alle sind erreichbar unter vorstand@openlab-augsburg.de. Mehr Infos zu den Formalien rund um den Verein findest du hier: $LINKWIKIFORMELLES 
  
-Als Mitglied kannst du einen "Tür-Token" bekommen, mit dem du rund um
-die Uhr ins Lab kommst. Den muss man getrennt beantragen, momentan
-bei Profpatsch.
-Ansonsten weißt du ja schon dass eigentlich täglich Leute da sind.
-Der aktuelle Türöffnungsstatus ist auf unserer Website. Der beste
-Kommunikationskanal zu Lab-Mitgliedern ist IRC, im Freenode-Netzwerk
-im Channel #augsburg. Dort kann man auch mit ".status" rausfinden,
-wie viele Clients gerade im WLAN eingeloggt sind.
- 
-Vielen Dank nochmal für die Unterstützung und bis bald im OpenLab!
+Deine e-Mail-Adresse haben wir in unseren Verteiler "mitglieder@" aufgenommen. Über diesen Verteiler verschicken wir ausschließlich die Einladungen zu Mitgliederversammlungen. Als Mitglied ist es erforderlich, dass wir dich mit einer aktuellen e-Mail-Adresse auf dem Verteiler führen, um dich auf Mitgliederversammlungen einladen zu können. Sollte sich deine e-Mail-Adresse also ändern, teile das bitte dem Vorstand unter vorstand@openlab-augsburg.de mit.
+
+Wir freuen uns, dich als Mitglied im OpenLab dabei zu haben! Bis Bald!
