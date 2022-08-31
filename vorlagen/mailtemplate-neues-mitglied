@@ -11,10 +11,15 @@ Deine Mitgliedschaft beginnt zum $D.$M.$YYY und dein Mitgliedsbeitrag beträgt 3
 Wir haben dich in unser Mitgliederverzeichnis aufgenommen, deine Mitgliedsnummer ist: $MITGLIEDSNUMMER
 
 $ABSATZ OPTION LASTSCHRIFT
-Du hast dich für das SEPA Lastschriftverfahren entschieden. Wir buchen deinen Mitgliedsbeitrag immer Anfang des Monats ein. Die Mandatsreferenz lautet $MANDATSREFERENZ(=NachnameVornameMitgliedsnummer), die Gläubiger-ID des OpenLab ist DE11ZZZ00001692130.
+Du hast dich für das SEPA Lastschriftverfahren entschieden. Wir buchen deinen Mitgliedsbeitrag immer Anfang des Monats ab. Die Mandatsreferenz lautet $MANDATSREFERENZ(=NachnameVornameMitgliedsnummer), die Gläubiger-ID des OpenLab ist DE11ZZZ00001692130.
 
 $ABSATZ OPTION ÜBERWEISUNG DAUERAUFTRAG
-Du hast dich für die Einrichtung eines Dauerauftrags zum Zahlen deiner Mitgliedsbeiträge entschieden. Richte den Dauerauftrag bitte an den OpenLab Augsburg e.V., IBAN: DE 5043 0609 6782 0579 3100 bei der GLS Bank, BIC: GENO DE M1 GLS. Verwende als Verwendungszweck bitte deine Mitgliedsnummer.
+Du hast dich für die Einrichtung eines Dauerauftrags zum Zahlen deiner Mitgliedsbeiträge entschieden. Richte den Dauerauftrag bitte an: 
+
+OpenLab Augsburg e.V.
+IBAN: DE 5043 0609 6782 0579 3100
+GLS Bank, BIC: GENO DE M1 GLS
+Verwendungszweck: member-$MITGLIEDSNUMMER
 
 Die verschiedenen Interessengruppen im OpenLab kommunizieren meist über unseren Mattermost-Chatserver. In verschiedenen Kanälen werden Themen behandelt oder sich einfach nur ausgetauscht. Informationen zum Chatserver findest du hier: $LINKWIKICHAT
 
@@ -26,4 +31,5 @@ Der Vorstand kümmert sich um die Verwaltung des Vereins und der Finanzen. Aktue
  
 Deine e-Mail-Adresse haben wir in unseren Verteiler "mitglieder@" aufgenommen. Über diesen Verteiler verschicken wir ausschließlich die Einladungen zu Mitgliederversammlungen. Als Mitglied ist es erforderlich, dass wir dich mit einer aktuellen e-Mail-Adresse auf dem Verteiler führen, um dich auf Mitgliederversammlungen einladen zu können. Sollte sich deine e-Mail-Adresse also ändern, teile das bitte dem Vorstand unter vorstand@openlab-augsburg.de mit.
 
-Wir freuen uns, dich als Mitglied im OpenLab dabei zu haben! Bis Bald!
+Wir freuen uns, dich als Mitglied im OpenLab dabei zu haben! 
+Bis Bald, $NAME aus dem Vorstand

@@ -1,23 +1,27 @@
----TOPIC--- Cancellation of Membership at OpenLab Augsburg
+Subject: Ende deiner Mitgliedschaft im OpenLab Augsburg e.V.
+From: vorstand@openlab-augsburg.de	
+To: mitglied@example.com
+Cc: vorstand@openlab-augsburg.de
 
+Hallo $NAME,
 
-Hey $NAME,
+du hast uns am $DATUM-DER-KÜNDIGUNG mitgeteilt, dass du deine Mitgliedschaft beenden und somit aus dem OpenLab Augsburg e.V. austreten möchtest. Wir bestätigen die hiermit das Ende deiner Mitgliedschaft mit der Mitgliedsnummer $MITGLIEDSNUMMER zu diesem Datum.
 
-we have just recieved your membership cancellation request and are very
-sad to see you go.
+Deine Daten wurden aus unserer Mitgliesdatenbank entfernt, deine e-Mail-Adresse vom Verteiler "mitglieder@" gelöscht.
 
-Your request was processed on $DATE-AS-2001-01-30. Your membership is now over.
+$ABSATZ HATTE LASTSCHRIFT
+Deine Mitgliedsanträge durften wir bisher per SEPA Lastschriftmandat einziehen. Durch deine Kündigung erlischt dieses Mandat und wir ziehen ab sofort keine Beiträge mehr ein, du musst nichts weiter tun.
 
+$ABSATZ HATTE ÜBERWEISUNG / DAUERAUFTRAG
+Deinen Mitgliedsbeitrag hast du bisher überwiesen bzw. per Dauerauftrag gezahlt. Vergiss nicht, diesen Dauerauftrag nun zu löschen.
 
-You are still very welcome at the OpenLab whenever you have the time.
-Just drop by on the open Mondays or at any other time when members are
-present.
-As you know, you can look up the space status on our website.
+$ABSATZ HATTE SCHLÜSSEL/ZUGANG/ETC
+Als Keyholder hattest du einen Zugang zum OpenLab, z.B. per Schlüssel, Schlüsselkarte oder digitalem Schlüssel. Setz dich bitte mit dem Vorstand in Verbindung, um diesen Schlüssel nun gegebenenfalls zurückzugeben.
 
+Trotz dem Ende deiner Mitgliedschaft bist du jederzeit weiter als Gast im OpenLab willkommen. Du siehst auf der Webseite, ob der Raum gerade offen ist. 
 
-Best regards,
+Sollte es noch irgendwelche Fragen, z.B. zum Ende deiner Mitgliedschaft geben, zögere nicht, den Vorstand unter vorstand@openlab-augsburg.de zu kontaktieren.
 
-$VORSTAND from the OpenLab
-
-
+Vielen Dank für deine Zeit als Mitglied im OpenLab Augsburg e.V., machs gut, 
+$NAME aus dem Vorstand
 
