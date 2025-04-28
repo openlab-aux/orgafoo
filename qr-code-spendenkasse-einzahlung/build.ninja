@@ -1,0 +1,9 @@
+builddir = .ninja
+
+rule qrencode
+  command = qrencode -s 8 -o $out -t $filetype -- $in
+
+build qr-code-spendenkasse-einzahlung.txt.png: qrencode qr-code-spendenkasse-einzahlung.txt
+  filetype = PNG
+build qr-code-spendenkasse-einzahlung.txt.svg: qrencode qr-code-spendenkasse-einzahlung.txt
+  filetype = SVG
